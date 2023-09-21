@@ -26,7 +26,8 @@ https://github.com/oobabooga/text-generation-webui
 Приложение позволяет локально анализировать код на соответствие требованиям, предлагать и вносить улучшения, писать тесты и вспомогательные модули.
 
 https://github.com/AntonOsika/gpt-engineer
-/home/ivank/Downloads/243695075-6e362e45-4a94-4b0d-973d-393a31d92d9b.mp4
+
+https://github.com/ivkhokhlov/rtk-gpt/assets/58159018/ae22143c-745e-4ec5-b589-af5b37979e42
 
 #### Написание кода:
 Позволяет генерировать и дорабатывать приложение с нуля, основываясь на базовых запросах. 
